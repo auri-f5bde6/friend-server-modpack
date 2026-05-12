@@ -1,0 +1,13 @@
+name = "Create Modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eac733961dadd24a04f5dcd1392791329ff946f33930f17113da4c515e31ed90"
+
+[versions]
+lwjgl3 = "3.3.3"
+minecraft = "1.21.1"
+neoforge = "21.1.229"
